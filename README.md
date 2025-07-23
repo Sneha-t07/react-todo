@@ -1,23 +1,23 @@
 # react-todo
 
-**Requirements**
+**Requirements:**
 Node.js (mention recommended version)
 npm (comes with Node)
 
-**Install dependencies**
+**Install dependencies:**
 npm install
 
-**Start the app**
+**Start the app:**
 npm start
 
-The app will run at http://localhost:3000.
+-The app will run at http://localhost:3000.
 
-**Using the Todo App**
+**Using the Todo App:**
 Type a todo in the input box and click "Add".
 Click on a todo to mark it as completed.
 Click "Delete" to remove a todo.
 
-**Project Structure**
+**Project Structure:**
 
 react-todo-app/
 ├── src/
